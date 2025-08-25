@@ -60,9 +60,3 @@ CREATE TABLE feedback (
 - Run MainDashboard.java from your IDE.
 - Use the tabs to manage appointments, counselors, and feedback.
 
-## Group Members
-- Hayley Treutens – GitHub: @CountessOreo
--  Di-Jancko Calitz - GitHud: @DijanckoCalitz
--  – GitHub: @username
--  – GitHub: @username
-All members contributed to both milestones and understand all concepts.
